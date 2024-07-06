@@ -39,7 +39,10 @@ Welcome to the Samsung Virtual Store! This repository contains the code and asse
 ## Additional Resources
 
 - [**VITC_Team Phoenix_MetaV.pptx**](./VITC_Team%20Phoenix_MetaV.pptx): A PowerPoint presentation detailing the project by Team Phoenix.
-- [**SamsungStoreXR Preview.mp4**](./SamsungStoreXR%20Preview.mp4): A preview video demonstrating the Samsung Virtual Store experience.
+- [**SamsungStoreXR Preview.mp4**](https://www.youtube.com/watch?v=QL8vlpLQBxA): A preview video demonstrating the Samsung Virtual Store experience.
+
+  [![Watch the video](https://img.youtube.com/vi/QL8vlpLQBxA/maxresdefault.jpg)](https://www.youtube.com/watch?v=QL8vlpLQBxA)
+
 
 ---
 
