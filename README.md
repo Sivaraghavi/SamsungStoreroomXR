@@ -50,4 +50,4 @@ Thank you for exploring the Samsung Virtual Store project! Enjoy your immersive 
 
 ## Contact
 
-For any questions or feedback, please reach out to us at [sivaraghavi.ur2021@vitstudent.ac.in](mailto:sivaraghavi.ur2021@vitstudent.ac.in).
+For any questions or feedback, please reach out to us at [sivaraghavi6103@gmail.com](mailto:sivaraghavi6103@gmail.com).
